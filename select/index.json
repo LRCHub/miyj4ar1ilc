@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "脳漿炸裂ガール 2015ver.",
+  "base_artist": "Rerulili",
+  "createdAt": "2026-01-12T13:49:33.790042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "TOUYU",
+      "has_synced": true,
+      "path": "select/01_脳漿炸裂ガール_TOUYU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "灯油",
+      "has_synced": true,
+      "path": "select/02_脳漿炸裂ガール_灯油.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/03_脳漿炸裂ガール_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/04_脳漿炸裂ガール_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/05_脳漿炸裂ガール_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_脳漿炸裂ガール_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール 2015ver.",
+      "artist": "rerulili",
+      "has_synced": true,
+      "path": "select/07_脳漿炸裂ガール_2015ver._rerulili.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "れるりり",
+      "has_synced": true,
+      "path": "select/08_脳漿炸裂ガール_れるりり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "rerulili feat .Hatsune, Miku, GUMI",
+      "has_synced": false,
+      "path": "select/09_脳漿炸裂ガール_rerulili_feat_.Hatsune,_Miku,_GUMI.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/10_脳漿炸裂ガール_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/11_脳漿炸裂ガール_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール",
+      "artist": "kradness",
+      "has_synced": false,
+      "path": "select/12_脳漿炸裂ガール_kradness.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール - Noushou Sakuretsu Girl",
+      "artist": "rerulili",
+      "has_synced": false,
+      "path": "select/13_脳漿炸裂ガール_-_Noushou_Sakuretsu_Girl_rerulili.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール (Noushou Sakuretsu Girl)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/14_脳漿炸裂ガール_(Noushou_Sakuretsu_Girl)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール - TENKOMORI's REMIX",
+      "artist": "Satsuki ga Tenkomori",
+      "has_synced": false,
+      "path": "select/15_脳漿炸裂ガール_-_TENKOMORI's_REMIX_Satsuki_ga_Tenkomori.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Noushou Sakuretsu Girl (脳漿炸裂ガール)",
+      "artist": "Wagakki Band（和楽器バンド）",
+      "has_synced": false,
+      "path": "select/16_Noushou_Sakuretsu_Girl_(脳漿炸裂ガール)_Wagakki_Band(和楽器バンド).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "脳漿炸裂ガール (TENKOMORI’s REMIX)",
+      "artist": "さつき が てんこもり",
+      "has_synced": false,
+      "path": "select/17_脳漿炸裂ガール_(TENKOMORI’s_REMIX)_さつき_が_てんこもり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脳漿炸裂ガール 2015ver.",
+      "artist": "rerulili",
+      "has_synced": false,
+      "path": "select/pl_01_脳漿炸裂ガール_2015ver._rerulili.txt"
+    }
+  ]
+}
